@@ -1,0 +1,6 @@
+austin_weather.csv - Main data used for at the intial phases extracted from kaggle 
+after_updation_with_mean.csv - data after updated with mean for missing values
+min_max_scaled_austin_weather.csv - data after min-max scaling
+austin_weather_scaled_binned_after_Discretization.csv - data after scaled and discretized
+sampled_austin_weather - data after scaled
+reduced_austin_weather - data after reducing to 80%
